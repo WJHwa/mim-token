@@ -1,4 +1,4 @@
-# MIM-Token 강의자료
+## MIM-Token 강의자료
 
 ##
 > 1. Chrome 또는 인터넷 브라우저를 킵니다.
