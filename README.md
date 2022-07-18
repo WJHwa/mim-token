@@ -62,7 +62,7 @@
 
 > 11. 지갑이 생성되면 상단에 이더리움 메인넷 부분을 클릭하여 Ropsten 테스트 네트워크 클릭.
 > 
-> 12. 위 설명란에 1~11번까지 하기.(6번째에서 81번,82번줄에 있는 주소를 자신이 만든 MetaMask 주소로 변경)
+> 12. 위 MIM-Token 강의자료를 1~11번까지 하기.(MIM-Token 강의자료 6번째에서 81번,82번줄에 있는 주소를 자신이 만든 MetaMask 주소로 변경)
 
 > 13. ENVIRONMENT에 JavaScript VM(London) 부분을 Injected Web3로 변경.
 
